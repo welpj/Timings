@@ -1163,7 +1163,7 @@ R, (a, b, c, d) = Singular.PolynomialRing(
     ordering = Singular.ordering_M(StartOrd),
 )
 
-# v4 G1-3 S0
+# v4 G1/3 S0
 I = Singular.Ideal(
     R,
     [
@@ -1238,7 +1238,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S10
+# v4 G1/3 S10
 I = Singular.Ideal(
     R,
     [
@@ -1307,7 +1307,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S20
+# v4 G1/3 S20
 I = Singular.Ideal(
     R,
     [
@@ -1368,7 +1368,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S30
+# v4 G1/3 S30
 I = Singular.Ideal(
     R,
     [
@@ -1422,7 +1422,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S40
+# v4 G1/3 S40
 I = Singular.Ideal(
     R,
     [
@@ -1470,7 +1470,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S50
+# v4 G1/3 S50
 I = Singular.Ideal(
     R,
     [
@@ -1511,7 +1511,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S60
+# v4 G1/3 S60
 I = Singular.Ideal(
     R,
     [
@@ -1546,7 +1546,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S70
+# v4 G1/3 S70
 I = Singular.Ideal(
     R,
     [
@@ -1574,7 +1574,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S80
+# v4 G1/3 S80
 I = Singular.Ideal(
     R,
     [
@@ -1591,7 +1591,7 @@ I = Singular.Ideal(
     ],
 )
 
-# v4 G1-3 S90
+# v4 G1/3 S90
 I = Singular.Ideal(
     R,
     [a^2 * c + 2 * b * d^2 + 4 * a * d + 3 * a, a^3 + 3 * a * b^2 + 3 * b * d],
@@ -1611,7 +1611,7 @@ R, (a, b, c) = Singular.PolynomialRing(
     ordering = Singular.ordering_M(StartOrd),
 )
 
-# V3G6S50
+# V3G0/6S50
 I = Singular.Ideal(
     R,
     [
@@ -1703,7 +1703,7 @@ I = Singular.Ideal(
 )
 
 
-# V3G7S50
+# V3G0/7S50
 I = Singular.Ideal(
     R,
     [
@@ -1840,7 +1840,7 @@ R, (a, b, c, d) = Singular.PolynomialRing(
     ordering = Singular.ordering_M(StartOrd),
 )
 
-# V4G3S50
+# V4G0/3S50
 I = Singular.Ideal(
     R,
     [
@@ -1882,7 +1882,7 @@ I = Singular.Ideal(
     ],
 )
 
-# V4G4S50
+# V4G0/4S50
 I = Singular.Ideal(
     R,
     [
@@ -1968,7 +1968,7 @@ R, (a, b, c, d, e) = Singular.PolynomialRing(
     ordering = Singular.ordering_M(StartOrd),
 )
 
-# V5G2S50
+# V5G0/2S50
 I = Singular.Ideal(
     R,
     [
@@ -1997,7 +1997,7 @@ I = Singular.Ideal(
 )
 
 
-# V5G3S50
+# V5G0/3S50
 I = Singular.Ideal(
     R,
     [
